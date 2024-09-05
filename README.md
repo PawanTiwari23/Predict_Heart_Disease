@@ -54,6 +54,7 @@ Risk factors from the first physical examination of the patient.
   2. Matplotlib *(for data visualization)*
   3. Seaborn *(for data visualization)*
   4. Scikit-Learn *(for data modeling)*
+  5. streamlit * (for used web page)
 
 ---
 ## Contents:
